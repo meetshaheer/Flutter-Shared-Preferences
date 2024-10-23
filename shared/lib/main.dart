@@ -92,7 +92,7 @@ class _SharedPrefencesState extends State<SharedPrefences> {
               //   ),
               // ),
               const SizedBox(
-                height: 40,
+                height: 42,
               ),
               ElevatedButton(
                 onPressed: () async {
